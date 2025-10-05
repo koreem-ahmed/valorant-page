@@ -1,0 +1,80 @@
+:root {
+    --primary-color: #ff4654;
+    --secondary-color: #ba3a46;
+    --text-color: white;
+    --bgc:  	#111823;
+}
+.ag-hero{
+    background-image: url(/imgs/Valorant_Endeavour_Skin_Bundle.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    top: 0px;
+    width: 100vw;
+}
+.fs-h{
+    color: transparent;
+    -webkit-text-stroke-width: 5px;
+    -webkit-text-stroke-color: white;
+    text-align: center;
+    position: relative;
+    top: 51vh;
+    margin: 0;
+    font-size: 200px;
+    font-weight: bold;
+}
+.ag-hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to bottom, #ff465639, #111823);
+}
+.weapons-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 90%;
+    margin: auto;
+}
+.weapon{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.weapon img{
+    width: 80%;
+    height: auto;
+    border-radius: 10px;
+}
+.weapon h2{
+    color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    text-transform: uppercase;
+    margin: 10px 0 0 0;
+}
+.weapon p{
+    color: var(--text-color);
+    margin: 5px 0 20px 0;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.weapon button{
+    margin-bottom: 60px;
+    width: 100px;
+    background-color: var(--bgc);
+    color: var(--primary-color);
+    border-radius: 10px;
+    border: 2px solid var(--primary-color);
+    cursor: pointer;
+    font-size: 15px;
+}
+.blur{
+    background-color: rgba(0, 0, 0, 0.566);
+    backdrop-filter: blur(12px);
+}
