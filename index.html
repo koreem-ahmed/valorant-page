@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valorant</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="favicon" href="favicon.ico">
+    <link rel="stylesheet" href="css/all.css">
+</head>
+<body>
+    <nav class="nav">
+        <div class="logo">
+            <img src="imgs/logo-removebg-preview-removebg-preview.png" alt="Valorant Logo" class="logo">
+            <h1>Valorant</h1>
+        </div>
+        <ul class="nav-links">
+            <li><a href="index.html" class="now">Home</a></li>
+            <li><a href="agents.html">Agents</a></li>
+            <li><a href="maps.html">Maps</a></li>
+            <li><a href="weapons.html">Weapons</a></li>
+            <li><a href="news.html">News</a></li>
+        </ul>
+        <div class="user">
+            <img src="imgs/user-removebg-preview.png" alt="User Avatar">
+            <h3><a href="customize.html" class="cus">Sign in</a></h3>
+        </div>
+    </nav>
+    <main class="hero">
+        <div class="hero-content">
+            <h1 id="greet">Welcome kareem <br> to varlorant ❤️</h1>
+            <button onclick="window.location.href='agents.html'">know the news</button>
+        </div>
+    </main>
+    <hr>
+    <section>
+        <video autoplay muted loop id="bg-hero">
+            <source src="videos/Astra.mp4" type="video/mp4">
+        </video>
+        <div class="about-u">
+            <h2>Go choose Your agent</h2>
+            <p>Join the battle, choose your agent, and master the art of strategy in this thrilling tactical shooter.</p>
+            <button><a href="agents.html" class="btn">Explore Agents</a></button>
+    </section>
+    <hr style="position: relative; top: -9vh;">
+    <h1 style="text-align: center; font-size: 50px;">About Valorant</h1>
+    <section class="about-us-section">
+        <div class="about-us">
+            <h1>What is Valorant</h1>
+            <p>Valorant is a free-to-play, team-based, first-person tactical shooter developed by Riot Games. It's a 5v5 competitive game where players choose from a roster of unique "Agents" with different abilities to outwit and outplay their opponents. The game focuses on strategic gunplay, tactical abilities, and teamwork, with players battling across various maps with the goal of winning rounds by planting or defusing a "spike" or eliminating the opposing team. </p>
+        </div>
+        <div class="about-us-img">
+            <img src="imgs/about-us.jpg" alt="">
+        </div>
+    </section>
+    <hr>
+    <h1 style="text-align: center; margin-top: 10vh;">Best Blogs</h1>
+    <section class="blog-container">
+
+        <div class="review hidden" id="review">
+            <div class="review-header">
+                <h2>Valorant Patch Notes</h2>
+                <button class="cross" id="cross">
+                    <div class="cross-left"></div>
+                    <div class="cross-right"></div>
+                </button>
+            </div>
+            <img id="img-veiw" src="imgs/patch.jpg" alt="">
+        </div>
+
+        <div class="blog">
+            <img src="imgs/patch.jpg" alt="Blog 1">
+            <h2>Valorant Patch Notes</h2>
+            <p>Stay updated with the latest changes, balance adjustments, and new features in Valorant's patch notes.</p>
+            <button id="blog1">Read More</button>
+        </div>
+        <div class="blog">
+            <img src="imgs/tips.jpeg" alt="Blog 2">
+            <h2>Valorant Tips and Tricks</h2>
+            <p>Learn essential tips and tricks to improve your gameplay and dominate the competition.</p>
+            <button id="blog2">Read More</button>
+        </div>
+        <div class="blog">
+            <img src="imgs/blog 3.avif" alt="Blog 2">
+            <h2>Valorant Tips and Tricks</h2>
+            <p>Learn essential tips and tricks to improve your gameplay and dominate the competition.</p>
+            <button id="blog3">Read More</button>
+        </div>
+        <div class="blog">
+            <img src="imgs/blog 4.avif" alt="Blog 2">
+            <h2>Valorant Tips and Tricks</h2>
+            <p>Learn essential tips and tricks to improve your gameplay and dominate the competition.</p>
+            <button id="blog4">Read More</button>
+        </div>
+    </section>
+    <footer class="footer">
+        <p>&copy; 2023 Valorant. All rights reserved.</p>
+        <p>Made by koreeem ahmed with love ❤️</p>
+    </footer>
+    <script src="js/index.js"></script>
+</body>
+</html>
