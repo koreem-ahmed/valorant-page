@@ -2,11 +2,12 @@
     --primary-color: #ff4654;
     --secondary-color: #ba3a46;
     --text-color: white;
-    --bgc:  	#111823;
+    --bgc: #111823;
     --hr: #ff4656a9;
 }
-body{
-    background-color: 	#111823;
+
+body {
+    background-color: #111823;
     color: white;
     font-family: intel, sans-serif;
     height: 100%;
@@ -14,7 +15,8 @@ body{
     overflow-x: hidden;
     margin: 0;
 }
-nav{
+
+nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -27,65 +29,80 @@ nav{
     padding-bottom: 1vh;
     transition: 1s;
 }
-ul{
+
+ul {
     list-style: none;
 }
-li{
+
+li {
     display: inline;
 }
-a{
+
+a {
     color: white;
     text-decoration: none;
 }
-.nav-links{
+
+.nav-links {
     display: flex;
     gap: 30px;
     padding-bottom: 3px;
 
 }
-.nav-links li a:hover{
+
+.nav-links li a:hover {
     color: var(--primary-color);
     border-bottom-color: var(--secondary-color);
     transition: 1s;
     border-bottom: 2px var(--secondary-color) solid;
 }
-.nav-links li a{
+
+.nav-links li a {
     font-size: 20px;
 }
-.now{
+
+.now {
     color: var(--primary-color);
 }
-.user{
+
+.user {
     display: flex;
     align-items: center;
 }
-.user img{
+
+.user img {
     width: 54px;
     height: 50px;
     margin-right: 10px;
 }
-.logo img{
+
+.logo img {
     width: 50px;
     height: 50px;
     margin-top: 10px;
 }
-.logo{
+
+.logo {
     display: flex;
     align-items: center;
 }
-.cus:hover{
+
+.cus:hover {
     color: var(--primary-color);
     transition: 1s;
 }
+
 #bgVideo {
     position: fixed;
-    right: 0; bottom: 0;
+    right: 0;
+    bottom: 0;
     width: 100vw;
     height: 100vh;
     object-fit: cover;
     z-index: -2;
 }
-hr{
+
+hr {
     width: 100%;
     height: 2px;
     background-color: var(--hr);
@@ -93,7 +110,8 @@ hr{
     margin-top: 0;
     margin-bottom: 0;
 }
-.footer{
+
+.footer {
     width: 100vw;
     height: 20vh;
     position: relative;
