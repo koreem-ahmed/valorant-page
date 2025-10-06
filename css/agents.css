@@ -5,7 +5,7 @@
     --bgc:  	#111823;
 }
 .ag-hero{
-    background-image: url(./imgs/agent-hero.avif);
+    background-image: url(../imgs/agent-hero.avif);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

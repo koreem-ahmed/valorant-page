@@ -6,7 +6,7 @@
 }
 
 .ag-hero {
-    background-image: url(./imgs/2a79cb00cafaf2d23bf36c8743f940825d182c79-1920x1080.webp);
+    background-image: url(../imgs/2a79cb00cafaf2d23bf36c8743f940825d182c79-1920x1080.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -44,7 +44,7 @@
     width: 200px;
     height: 200px;
     border-radius: 100%;
-    background-image: url(./imgs/maps/CORRODE/6e3e66577519c8290d874aa94d82e28aec2ccc3e-915x515.avif);
+    background-image: url(../imgs/maps/CORRODE/6e3e66577519c8290d874aa94d82e28aec2ccc3e-915x515.avif);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -56,7 +56,7 @@
     width: 200px;
     height: 200px;
     border-radius: 100%;
-    background-image: url(./imgs/2a79cb00cafaf2d23bf36c8743f940825d182c79-1920x1080.webp);
+    background-image: url(../imgs/2a79cb00cafaf2d23bf36c8743f940825d182c79-1920x1080.webp);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -68,7 +68,7 @@
     width: 200px;
     height: 200px;
     border-radius: 100%;
-    background-image: url(./imgs/maps/LOTUS/67d199e0f7108bc60e8293d3f9a37538b0b55b11-3840x2160.avif);
+    background-image: url(../imgs/maps/LOTUS/67d199e0f7108bc60e8293d3f9a37538b0b55b11-3840x2160.avif);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -80,7 +80,7 @@
     width: 200px;
     height: 200px;
     border-radius: 100%;
-    background-image: url(./imgs/maps/PEARL/34ba319c99d3d20ef8c6f7b6a61439e207b39247-915x515.avif);
+    background-image: url(../imgs/maps/PEARL/34ba319c99d3d20ef8c6f7b6a61439e207b39247-915x515.avif);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
