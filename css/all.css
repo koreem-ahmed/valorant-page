@@ -16,6 +16,11 @@ body {
     margin: 0;
 }
 
+.blur{
+    background-color: rgba(0, 0, 0, 0.566);
+    backdrop-filter: blur(12px);
+}
+
 nav {
     display: flex;
     justify-content: space-around;

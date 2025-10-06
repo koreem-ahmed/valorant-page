@@ -16,6 +16,11 @@
     width: 100vw;
 }
 
+.blur{
+    background-color: rgba(0, 0, 0, 0.566);
+    backdrop-filter: blur(12px);
+}
+
 .fs-h {
     color: transparent;
     -webkit-text-stroke-width: 5px;

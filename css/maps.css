@@ -62,6 +62,11 @@
     background-repeat: no-repeat;
 }
 
+.blur {
+    background-color: rgba(0, 0, 0, 0.566);
+    backdrop-filter: blur(12px);
+}
+
 .ag-hero-content2 {
     position: absolute;
     border: 3px white solid;
@@ -170,154 +175,154 @@
 }
 
 .img-slider-inner {
-    background-image: url(.../imgs/maps/BREEZE/main.avif);
+    background-image: url(../imgs/maps/BREEZE/main.avif);
 }
 
 .img-slider-inner1 {
-    background-image: url(.../imgs/maps/BREEZE/09fd06d90139cc800a6b0fe25ce465dbb38ad217-915x504.webp);
+    background-image: url(../imgs/maps/BREEZE/09fd06d90139cc800a6b0fe25ce465dbb38ad217-915x504.webp);
 }
 
 .img-slider-inner2 {
-    background-image: url(.../imgs/maps/BREEZE/5df1cb817110ec8d785ac6bd6d927131e454ab96-915x504.webp);
+    background-image: url(../imgs/maps/BREEZE/5df1cb817110ec8d785ac6bd6d927131e454ab96-915x504.webp);
 }
 
 .img-slider-inner3 {
-    background-image: url(.../imgs/maps/BREEZE/63de198a49e6e55a46a6e59b3a5d48ce2ca03bb5-915x504.webp);
+    background-image: url(../imgs/maps/BREEZE/63de198a49e6e55a46a6e59b3a5d48ce2ca03bb5-915x504.webp);
 }
 
 .img-slider-inner4 {
-    background-image: url(.../imgs/maps/BREEZE/ca4fd80fd44315849c52adcc6aeec4e0617a0a35-915x504.avif);
+    background-image: url(../imgs/maps/BREEZE/ca4fd80fd44315849c52adcc6aeec4e0617a0a35-915x504.avif);
 }
 
 .img-slider-inner5 {
-    background-image: url(.../imgs/maps/BREEZE/fd774489b1095dd34b8d99c68c791a79f75191e4-915x504.webp);
+    background-image: url(../imgs/maps/BREEZE/fd774489b1095dd34b8d99c68c791a79f75191e4-915x504.webp);
 }
 
 
 .img-slider-CORRODE {
-    background-image: url(.../imgs/maps/CORRODE/main.avif);
+    background-image: url(../imgs/maps/CORRODE/main.avif);
 }
 
 .img-slider-CORRODE1 {
-    background-image: url(.../imgs/maps/CORRODE/0e440e2dcfa2e45f6a3b5d52b0b227e97b941633-915x515.avif);
+    background-image: url(../imgs/maps/CORRODE/0e440e2dcfa2e45f6a3b5d52b0b227e97b941633-915x515.avif);
 }
 
 .img-slider-CORRODE2 {
-    background-image: url(.../imgs/maps/CORRODE/6e3e66577519c8290d874aa94d82e28aec2ccc3e-915x515.avif);
+    background-image: url(../imgs/maps/CORRODE/6e3e66577519c8290d874aa94d82e28aec2ccc3e-915x515.avif);
 }
 
 .img-slider-CORRODE3 {
-    background-image: url(.../imgs/maps/CORRODE/72b1463c770e58c75f25859ca3c65516cf87f5d7-915x515.avif);
+    background-image: url(../imgs/maps/CORRODE/72b1463c770e58c75f25859ca3c65516cf87f5d7-915x515.avif);
 }
 
 .img-slider-CORRODE4 {
-    background-image: url(.../imgs/maps/CORRODE/79be60bb23b3da854acf80b2b519c93ad9cd8588-915x515.avif);
+    background-image: url(../imgs/maps/CORRODE/79be60bb23b3da854acf80b2b519c93ad9cd8588-915x515.avif);
 }
 
 .img-slider-CORRODE5 {
-    background-image: url(.../imgs/maps/CORRODE/f9e0dcccefb0de3fdd18ba73d3d51996e3e3aa9d-915x515.avif);
+    background-image: url(../imgs/maps/CORRODE/f9e0dcccefb0de3fdd18ba73d3d51996e3e3aa9d-915x515.avif);
 }
 
 
 
 .img-slider-ICEBOX {
-    background-image: url(.../imgs/maps/ICEBOX/main.avif);
+    background-image: url(../imgs/maps/ICEBOX/main.avif);
 }
 
 .img-slider-ICEBOX1 {
-    background-image: url(.../imgs/maps/ICEBOX/12067a4103efab2a699553d1c4dbc09291781f5f-1980x1083.webp);
+    background-image: url(../imgs/maps/ICEBOX/12067a4103efab2a699553d1c4dbc09291781f5f-1980x1083.webp);
 }
 
 .img-slider-ICEBOX2 {
-    background-image: url(.../imgs/maps/ICEBOX/696094917f45e90323c0ea4a0947707f5ef975fa-1980x1083.webp);
+    background-image: url(../imgs/maps/ICEBOX/696094917f45e90323c0ea4a0947707f5ef975fa-1980x1083.webp);
 }
 
 .img-slider-ICEBOX3 {
-    background-image: url(.../imgs/maps/ICEBOX/91422206c56df7177495b96a26021d6379de8079-1980x1083.webp);
+    background-image: url(../imgs/maps/ICEBOX/91422206c56df7177495b96a26021d6379de8079-1980x1083.webp);
 }
 
 .img-slider-ICEBOX4 {
-    background-image: url(.../imgs/maps/ICEBOX/95764641b4f4c15ed7537302988685f18dfd03b3-1980x1083.webp);
+    background-image: url(../imgs/maps/ICEBOX/95764641b4f4c15ed7537302988685f18dfd03b3-1980x1083.webp);
 }
 
 .img-slider-ICEBOX5 {
-    background-image: url(.../imgs/maps/ICEBOX/dfe8e891d8e2f38887802f085490626972211a0c-1980x1083.webp);
+    background-image: url(../imgs/maps/ICEBOX/dfe8e891d8e2f38887802f085490626972211a0c-1980x1083.webp);
 }
 
 
 
 .img-slider-LOTUS {
-    background-image: url(.../imgs/maps/LOTUS/main.avif);
+    background-image: url(../imgs/maps/LOTUS/main.avif);
 }
 
 .img-slider-LOTUS1 {
-    background-image: url(.../imgs/maps/LOTUS/3bf87877f0918085296a5390ff8a53a5ea997a9c-915x515.avif);
+    background-image: url(../imgs/maps/LOTUS/3bf87877f0918085296a5390ff8a53a5ea997a9c-915x515.avif);
 }
 
 .img-slider-LOTUS2 {
-    background-image: url(.../imgs/maps/LOTUS/42d4a5aeb56a7ebe5b2a0de331245c2fe65dcd89-915x515.avif);
+    background-image: url(../imgs/maps/LOTUS/42d4a5aeb56a7ebe5b2a0de331245c2fe65dcd89-915x515.avif);
 }
 
 .img-slider-LOTUS3 {
-    background-image: url(.../imgs/maps/LOTUS/67d199e0f7108bc60e8293d3f9a37538b0b55b11-3840x2160.avif);
+    background-image: url(../imgs/maps/LOTUS/67d199e0f7108bc60e8293d3f9a37538b0b55b11-3840x2160.avif);
 }
 
 .img-slider-LOTUS4 {
-    background-image: url(.../imgs/maps/LOTUS/72244f5326bac4cc17cc3e3f6d7c5831ea573abc-703x396.avif);
+    background-image: url(../imgs/maps/LOTUS/72244f5326bac4cc17cc3e3f6d7c5831ea573abc-703x396.avif);
 }
 
 .img-slider-LOTUS5 {
-    background-image: url(.../imgs/maps/LOTUS/d7d08f63ee2c4e10da770a6f1f828720bfd3313c-915x515.avif);
+    background-image: url(../imgs/maps/LOTUS/d7d08f63ee2c4e10da770a6f1f828720bfd3313c-915x515.avif);
 }
 
 
 
 .img-slider-PEARL {
-    background-image: url(.../imgs/maps/PEARL/main.avif);
+    background-image: url(../imgs/maps/PEARL/main.avif);
 }
 
 .img-slider-PEARL1 {
-    background-image: url(.../imgs/maps/PEARL/0089861662b41c8d5c3c4f1c14cb4d1937936105-915x515.avif);
+    background-image: url(../imgs/maps/PEARL/0089861662b41c8d5c3c4f1c14cb4d1937936105-915x515.avif);
 }
 
 .img-slider-PEARL2 {
-    background-image: url(.../imgs/maps/PEARL/34ba319c99d3d20ef8c6f7b6a61439e207b39247-915x515.avif);
+    background-image: url(../imgs/maps/PEARL/34ba319c99d3d20ef8c6f7b6a61439e207b39247-915x515.avif);
 }
 
 .img-slider-PEARL3 {
-    background-image: url(.../imgs/maps/PEARL/5512c1caceea8d66ebdcbd4e32fda660d9c75028-915x515.avif);
+    background-image: url(../imgs/maps/PEARL/5512c1caceea8d66ebdcbd4e32fda660d9c75028-915x515.avif);
 }
 
 .img-slider-PEARL4 {
-    background-image: url(.../imgs/maps/PEARL/e4c864fa4607f1f356edcb7f6cc8782dc400793c-915x515.avif);
+    background-image: url(../imgs/maps/PEARL/e4c864fa4607f1f356edcb7f6cc8782dc400793c-915x515.avif);
 }
 
 .img-slider-PEARL5 {
-    background-image: url(.../imgs/maps/PEARL/f14087492fb40816aaeb3f2e2e310f98805e5c16-915x515.avif);
+    background-image: url(../imgs/maps/PEARL/f14087492fb40816aaeb3f2e2e310f98805e5c16-915x515.avif);
 }
 
 
 
 .img-slider-SUNSET {
-    background-image: url(.../imgs/maps/SUNSET/main.avif);
+    background-image: url(../imgs/maps/SUNSET/main.avif);
 }
 
 .img-slider-SUNSET1 {
-    background-image: url(.../imgs/maps/SUNSET/3554ba8c21ea98c6d121cffe5810dc30af72d553-915x515.avif);
+    background-image: url(../imgs/maps/SUNSET/3554ba8c21ea98c6d121cffe5810dc30af72d553-915x515.avif);
 }
 
 .img-slider-SUNSET2 {
-    background-image: url(.../imgs/maps/SUNSET/5101e4ee241fbfca261bf8150230236c46c8b991-3840x2160.avif);
+    background-image: url(../imgs/maps/SUNSET/5101e4ee241fbfca261bf8150230236c46c8b991-3840x2160.avif);
 }
 
 .img-slider-SUNSET3 {
-    background-image: url(.../imgs/maps/SUNSET/91c2a0221d1670d9b8b10ec61130f2c0a76038a3-915x515.avif);
+    background-image: url(../imgs/maps/SUNSET/91c2a0221d1670d9b8b10ec61130f2c0a76038a3-915x515.avif);
 }
 
 .img-slider-SUNSET4 {
-    background-image: url(.../imgs/maps/SUNSET/c59a3da3382bf203c6bda22af892834508377ef3-753x424.avif);
+    background-image: url(../imgs/maps/SUNSET/c59a3da3382bf203c6bda22af892834508377ef3-753x424.avif);
 }
 
 .img-slider-SUNSET5 {
-    background-image: url(.../imgs/maps/SUNSET/ca3eab735bbde5d7930ec5845eff19becb46a86b-915x515.avif);
+    background-image: url(../imgs/maps/SUNSET/ca3eab735bbde5d7930ec5845eff19becb46a86b-915x515.avif);
 }

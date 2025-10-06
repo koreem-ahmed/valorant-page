@@ -14,6 +14,11 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+.blur{
+    background-color: rgba(0, 0, 0, 0.566);
+    backdrop-filter: blur(12px);
+}
+
 #bg-hero {
     position: relative;
     left: 44vw;
