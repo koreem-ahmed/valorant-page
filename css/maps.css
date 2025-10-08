@@ -62,11 +62,6 @@
     background-repeat: no-repeat;
 }
 
-.blur {
-    background-color: rgba(0, 0, 0, 0.566);
-    backdrop-filter: blur(12px);
-}
-
 .ag-hero-content2 {
     position: absolute;
     border: 3px white solid;
@@ -95,11 +90,6 @@
     transform: scale(1.1);
     transition: 0.4s;
     border: 1px var(--primary-color) solid;
-}
-
-.blur {
-    background-color: rgba(0, 0, 0, 0.566);
-    backdrop-filter: blur(12px);
 }
 
 .main-img {
